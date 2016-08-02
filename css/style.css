@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /* /finch/css/style.css */
 /* 03/09/2016 09:00AM EST */
+=======
+/* /cheetah/css/style.css */
+/* 08/02/2016 03:00PM EST */
+>>>>>>> abbbe7dbbe206ae2c62f36eac2b4ba7b60296009
 
 /* start viewports */
 
@@ -16,7 +21,10 @@
 	user-scalable:yes;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> abbbe7dbbe206ae2c62f36eac2b4ba7b60296009
 /* end viewports */
 
 html { 
@@ -975,4 +983,8 @@ nav .hover-highlight:hover {
   font-weight: normal;
   font-style: normal;
 }
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> abbbe7dbbe206ae2c62f36eac2b4ba7b60296009
